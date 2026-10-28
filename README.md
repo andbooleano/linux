@@ -8,7 +8,7 @@ no dia a dia a trabalhar com Linux.
 - [Networking](networking/README.md)
 - [System](system/README.md)
 - [Packages](packages/README.md)
-- [Drivers](drivers/README.md)
+- [Drivers](Drivers/README.md)
 - [Boot](boot/README.md)
 
 ## Objetivo
